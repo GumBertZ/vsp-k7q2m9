@@ -1,0 +1,314 @@
+{
+  "name": "pk",
+  "version": "1.2.0",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.206",
+  "loader": {
+    "file": "modpack.jar",
+    "sha1": "ebefa4c23076b622b232ed8a1bcf8ff549deacec",
+    "source": "local"
+  },
+  "root_files": [
+    "options.txt"
+  ],
+  "config_exclude": [],
+  "mods": [
+    {
+      "id": "attributefix",
+      "version": "21.1.2",
+      "file": "attributefix-neoforge-1.21.1-21.1.2.jar",
+      "sha1": "c6df25744d52abca410c40ec6f29c0156ba50885",
+      "size": 19798,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "betterf3",
+      "version": "11.0.3",
+      "file": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+      "size": 481646,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "bookshelf",
+      "version": "21.1.69",
+      "file": "bookshelf-neoforge-1.21.1-21.1.69.jar",
+      "sha1": "0f06aca0a2b064f2a8e9ba5f43d07eb1489c5f6d",
+      "size": 340336,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "chunky",
+      "version": "1.4.23",
+      "file": "Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "size": 340572,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "cloth_config",
+      "version": "15.0.140",
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "clumps",
+      "version": "19.0.0.1",
+      "file": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+      "size": 18382,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "configured",
+      "version": "2.6.0",
+      "file": "configured-neoforge-1.21.1-2.6.0.jar",
+      "sha1": "f118a9d2172368300627737b257bd2c0fb89e4d5",
+      "size": 428760,
+      "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "controlling",
+      "version": "19.0.5",
+      "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "size": 77555,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "cristellib",
+      "version": "1.2.8",
+      "file": "cristellib-neoforge-1.2.8.jar",
+      "sha1": "7dbe2c28eb59a2319098369f03a4dfff6b2d4ef2",
+      "size": 431656,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "customnpcs",
+      "version": "${file.jarVersion} [manifest 1.21.1.20250911]",
+      "file": "CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar",
+      "sha1": "e07068042fe9dc2e7240fcb765bc5facba057394",
+      "size": 10788864,
+      "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "distanthorizons",
+      "version": "3.3.3",
+      "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+      "size": 28289212,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "embeddium",
+      "version": "1.0.15+mc1.21.1",
+      "file": "embeddium-1.0.15+mc1.21.1.jar",
+      "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
+      "size": 1048745,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "enchdesc",
+      "version": "21.1.9",
+      "file": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "sha1": "e4fa515c5deab3165f250f2a1297ac836d496064",
+      "size": 81847,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "entityculling",
+      "version": "1.8.2",
+      "file": "entityculling-neoforge-1.8.2-mc1.21.jar",
+      "sha1": "47f92b8568158f688456b7e3bee7416e61b14dc3",
+      "size": 473832,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "extra_dungeons",
+      "version": "1.0.7",
+      "file": "extra_dungeons-1.0.7-neoforge-1.21.1.jar",
+      "sha1": "0abef88fffed273cf7e28186566c54ee654bfcbd",
+      "size": 59323,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "fantasy_armor",
+      "version": "1.1.1-1.21.1",
+      "file": "fantasy_armor-1.1.1-1.21.1.jar",
+      "sha1": "c6f5ec760d2e84d6557651cb159410a4318cb63c",
+      "size": 384063,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "ftbjeiextras",
+      "version": "21.1.7",
+      "file": "ftb-jei-extras-21.1.7.jar",
+      "sha1": "ef01126201a805991bbfe5351cff7d0a9e3a077b",
+      "size": 69759,
+      "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "geckolib",
+      "version": "4.8.2",
+      "file": "geckolib-neoforge-1.21.1-4.8.2.jar",
+      "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a",
+      "size": 621848,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "gravestone",
+      "version": "1.21.1-1.0.33",
+      "file": "gravestone-neoforge-1.21.1-1.0.33.jar",
+      "sha1": "accaf6fafae7266602cdd64f1c73e8b04d949c17",
+      "size": 318647,
+      "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "jei",
+      "version": "19.25.0.321",
+      "file": "jei-1.21.1-neoforge-19.25.0.321.jar",
+      "sha1": "96a3ef22a73c23fffb9809f92254ab1752969f31",
+      "size": 1505384,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "journeymap",
+      "version": "1.21.1-6.0.0-beta.52",
+      "file": "journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
+      "sha1": "369f9271b8b8adbb8b5baa7f2aa661edb9eb5838",
+      "size": 3537573,
+      "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "lithium",
+      "version": "0.15.0+mc1.21.1",
+      "file": "lithium-neoforge-0.15.0+mc1.21.1.jar",
+      "sha1": "584c5a8186938dd58e43ecde316253e8e38f6650",
+      "size": 747405,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "maxhealthfix",
+      "version": "21.1.4",
+      "file": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+      "sha1": "56243df705c150933642f7108b0d882322147d63",
+      "size": 20034,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "moreculling",
+      "version": "1.0.6",
+      "file": "moreculling-neoforge-1.21.1-1.0.6.jar",
+      "sha1": "f6f43344e0622ac05ad7aca5378ec35aad31ac30",
+      "size": 342982,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "noisium",
+      "version": "2.3.0+mc1.21-1.21.1",
+      "file": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "sha1": "1bea6b61378ba80f038256c4345d9ff3b67928c4",
+      "size": 60296,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "polymorph",
+      "version": "1.1.0+1.21.1",
+      "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "size": 174972,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "prickle",
+      "version": "21.1.11",
+      "file": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+      "size": 84812,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "resourcefullib",
+      "version": "3.0.12",
+      "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "size": 484332,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "searchables",
+      "version": "1.0.2",
+      "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+      "size": 77326,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
+      "id": "t_and_t",
+      "version": "1.13.2",
+      "file": "t_and_t-neoforge-fabric-1.13.2.jar",
+      "sha1": "7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf",
+      "size": 3641948,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "takesapillage",
+      "version": "1.0.9",
+      "file": "takesapillage-neoforge-1.0.9+mc1.21.1.jar",
+      "sha1": "69f10347397666cfca504edc864f1444850ce4db",
+      "size": 3771096,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "torohealth",
+      "version": "1.21-neoforge-3",
+      "file": "torohealth-1.21-neoforge-3.jar",
+      "sha1": "240f91c8f116961c79daa7672c3d8202e027b0a3",
+      "size": 130135,
+      "source": "local",
+      "side": "client"
+    },
+    {
+      "id": "yet_another_config_lib_v3",
+      "version": "3.8.0+1.21.1-neoforge",
+      "file": "yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
+      "sha1": "bba4a04d57f41e615630dbf088f8cb548186258e",
+      "size": 1117442,
+      "source": "local",
+      "side": "both"
+    }
+  ]
+}
