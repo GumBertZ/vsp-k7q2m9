@@ -21,8 +21,12 @@ for line in (ROOT / "CHANGELOG.md").read_text(encoding="utf-8").splitlines():
         continue
     if on and line.strip():
         notes.append(line)
-r = subprocess.run(["gh", "release", "create", tag, str(z), "--title", tag, "--notes", "\n".join(notes) or tag], cwd=ROOT)
+import shutil
+fix = ROOT / "dist" / ("%s.zip" % m["name"])  # copia amb nom fix: fa que l'enllaç "latest" valgui per a totes les versions
+shutil.copy2(z, fix)
+r = subprocess.run(["gh", "release", "create", tag, str(z), str(fix), "--title", tag, "--notes", "\n".join(notes) or tag], cwd=ROOT)
 if r.returncode != 0:
     sys.exit(r.returncode)
 repo = subprocess.run(["gh", "repo", "view", "--json", "nameWithOwner", "--jq", ".nameWithOwner"], cwd=ROOT, capture_output=True, text=True).stdout.strip()
-print("Enllaç directe: https://github.com/%s/releases/download/%s/%s" % (repo, tag, z.name))
+print("Enllac d'aquesta versio: https://github.com/%s/releases/download/%s/%s" % (repo, tag, z.name))
+print("Enllac fix (sempre l'ultima): https://github.com/%s/releases/latest/download/%s" % (repo, fix.name))
