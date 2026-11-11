@@ -41,15 +41,6 @@
       "side": "both"
     },
     {
-      "id": "chunky",
-      "version": "1.4.23",
-      "file": "Chunky-NeoForge-1.4.23.jar",
-      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
-      "size": 340572,
-      "source": "modrinth",
-      "side": "both"
-    },
-    {
       "id": "cloth_config",
       "version": "15.0.140",
       "file": "cloth-config-15.0.140-neoforge.jar",
@@ -309,6 +300,13 @@
       "size": 1117442,
       "source": "local",
       "side": "both"
+    }
+  ],
+  "retirats": [
+    {
+      "id": "chunky",
+      "version": "1.4.23",
+      "motiu": "Distant Horizons 3.3.3 peta en carregar el mon si Chunky hi es (Chunky is not loaded). Apartat del servidor i del pack el 2026-11-11."
     }
   ]
 }
