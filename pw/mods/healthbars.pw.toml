@@ -1,0 +1,13 @@
+name = "Health Bars"
+filename = "HealthBars-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A3VSiTms/versions/jbGgWqfc/HealthBars-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "a09709d98a708f8c574e489cd1439736ce5dbde50ec889537626a51b60adf4b22ce540de8184c795bd3a47cdacc8c8755bf7686b1991ab33176e1a840ad63819"
+
+[update]
+[update.modrinth]
+mod-id = "A3VSiTms"
+version = "jbGgWqfc"

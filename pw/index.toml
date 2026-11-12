@@ -380,6 +380,11 @@ hash = "c1da926239aae9693150bb29e8db0a0008a63f1da498d30a7b3f46f93748f6a8"
 metafile = true
 
 [[files]]
+file = "mods/healthbars.pw.toml"
+hash = "2b71863edd2540d93517f6a0a40e6dd04a460039a3a8c385308c45ffc453a347"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "bd1fded985d4545efa8a4fd5482f5923ec4894f83086a6b550e812d1dc742a15"
 metafile = true
@@ -405,11 +410,6 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "ee3b820bf7350e4a48726ac7931e8e0e3fcd76688c7db0741a8d1d8d26adf69e"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
@@ -422,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib.pw.toml"
+hash = "453a82176c41de35cd8363d2d2c52ac583389359de899f418824bda6fc50cc19"
 metafile = true
 
 [[files]]

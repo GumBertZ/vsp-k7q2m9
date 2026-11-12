@@ -2,8 +2,8 @@
 
 ## 1.3.0 (2026-11-12)
 - ToroHealth surt del pack: el seu autor no permet que eines de tercers el baixin i no es pot servir sense redistribuir-lo.
-- Entren Neat (barra de vida a sobre de cada criatura) i Damage Numbers (numeros de dany en colpejar), tots dos de Modrinth i nomes de client.
-- El pack passa a 33 mods.
+- Entren Health Bars (vida de les criatures a la pantalla i al mon; amb la seva llibreria Puzzles Lib) i Damage Numbers (numeros de dany en colpejar), tots de Modrinth i nomes de client.
+- El pack passa a 34 mods.
 - Correccio de la nota de la 1.2.0: Distant Horizons no fixa pocs fils; deixa que cada ordinador trii els seus (abans el pack en fixava 24).
 
 ## 1.2.0 (2026-11-11)

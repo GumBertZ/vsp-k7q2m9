@@ -185,6 +185,15 @@
       "side": "both"
     },
     {
+      "id": "healthbars",
+      "version": "v21.1.0-1.21.1-NeoForge",
+      "file": "HealthBars-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "1b3b018b95764ee34ce9b44d1fe1b1551f4d30d9",
+      "size": 113200,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
       "id": "jei",
       "version": "19.25.0.321",
       "file": "jei-1.21.1-neoforge-19.25.0.321.jar",
@@ -230,15 +239,6 @@
       "side": "client"
     },
     {
-      "id": "neat",
-      "version": "1.21.1-47-neoforge",
-      "file": "Neat-1.21-47-NEOFORGE.jar",
-      "sha1": "7744c5b02427572f7154d6f851507544fd9404d2",
-      "size": 110834,
-      "source": "modrinth",
-      "side": "client"
-    },
-    {
       "id": "noisium",
       "version": "2.3.0+mc1.21-1.21.1",
       "file": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
@@ -264,6 +264,15 @@
       "size": 84812,
       "source": "modrinth",
       "side": "both"
+    },
+    {
+      "id": "puzzleslib",
+      "version": "21.1.66",
+      "file": "puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
+      "sha1": "fd584167f1277aef5411a98a22390c65cabe6e07",
+      "size": 1451120,
+      "source": "modrinth",
+      "side": "client"
     },
     {
       "id": "resourcefullib",
