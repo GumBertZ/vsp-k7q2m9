@@ -293,15 +293,6 @@
       "side": "both"
     },
     {
-      "id": "moreculling",
-      "version": "1.0.11",
-      "file": "moreculling-neoforge-1.21.1-1.0.11.jar",
-      "sha1": "ea5ea2c826af8d8d4682d6cd867acb8e8ea983e7",
-      "size": 337255,
-      "source": "modrinth",
-      "side": "client"
-    },
-    {
       "id": "mr_tidal_towns",
       "version": "?",
       "file": "tidal-towns-2.0.jar",
@@ -430,6 +421,11 @@
       "id": "embeddium",
       "version": "1.0.15+mc1.21.1",
       "motiu": "Incompatible amb Veil (llibreria de Sable i Aeronautics), que demana Sodium 0.8.12 o superior. Substituit per Sodium a la variant de prova el 2026-11-12."
+    },
+    {
+      "id": "moreculling",
+      "version": "1.0.11",
+      "motiu": "No te versio per a Sodium 0.8 (la 1.0.6 peta en dibuixar el mon; la 1.0.11 declara Sodium inferior a 0.8.0). Fora de la variant de prova el 2026-11-12."
     }
   ]
 }
