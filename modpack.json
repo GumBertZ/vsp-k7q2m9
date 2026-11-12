@@ -2,7 +2,7 @@
   "name": "pk",
   "version": "1.4.0-prova",
   "minecraft": "1.21.1",
-  "neoforge": "21.1.206",
+  "neoforge": "21.1.252",
   "loader": {
     "file": "modpack.jar",
     "sha1": "ebefa4c23076b622b232ed8a1bcf8ff549deacec",
@@ -147,15 +147,6 @@
       "size": 215920,
       "source": "modrinth",
       "side": "both"
-    },
-    {
-      "id": "embeddium",
-      "version": "1.0.15+mc1.21.1",
-      "file": "embeddium-1.0.15+mc1.21.1.jar",
-      "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
-      "size": 1048745,
-      "source": "modrinth",
-      "side": "client"
     },
     {
       "id": "enchdesc",
@@ -383,6 +374,15 @@
       "side": "client"
     },
     {
+      "id": "sodium",
+      "version": "mc1.21.1-0.8.13-neoforge",
+      "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "size": 1292934,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
       "id": "t_and_t",
       "version": "1.13.2",
       "file": "t_and_t-neoforge-fabric-1.13.2.jar",
@@ -425,6 +425,11 @@
       "id": "extra_dungeons",
       "version": "1.0.7",
       "motiu": "Fora per decisio d'Albert (2026-11-12), abans de generar el mon nou."
+    },
+    {
+      "id": "embeddium",
+      "version": "1.0.15+mc1.21.1",
+      "motiu": "Incompatible amb Veil (llibreria de Sable i Aeronautics), que demana Sodium 0.8.12 o superior. Substituit per Sodium a la variant de prova el 2026-11-12."
     }
   ]
 }
