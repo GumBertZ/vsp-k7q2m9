@@ -294,10 +294,10 @@
     },
     {
       "id": "moreculling",
-      "version": "1.0.6",
-      "file": "moreculling-neoforge-1.21.1-1.0.6.jar",
-      "sha1": "f6f43344e0622ac05ad7aca5378ec35aad31ac30",
-      "size": 342982,
+      "version": "1.0.11",
+      "file": "moreculling-neoforge-1.21.1-1.0.11.jar",
+      "sha1": "ea5ea2c826af8d8d4682d6cd867acb8e8ea983e7",
+      "size": 337255,
       "source": "modrinth",
       "side": "client"
     },
