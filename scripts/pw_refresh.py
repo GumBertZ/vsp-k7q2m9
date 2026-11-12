@@ -37,6 +37,7 @@ PRESERVE = [
     "options.txt",                              # video, so, tecles: del jugador
     "config/embeddium-options.json",            # qualitat grafica
     "config/entityculling.json",                # culling d'entitats (client)
+    "config/healthbars-client.toml",            # barres de vida: distancia, posicio i aspecte
     "config/yacl.json5",                        # aspecte de la UI de configuracio
     "config/jei/*",                             # JEI: interficie, ordenacio, llista oculta
     "config/configured-client.properties",      # UI de configuracio (client)

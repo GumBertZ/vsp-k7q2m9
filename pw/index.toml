@@ -199,6 +199,11 @@ file = "config/gravestone-server.toml"
 hash = "d6bee13ae45904562fc651630ce48fa4e70cd3853fe2f488403c9b67d0c74c2a"
 
 [[files]]
+file = "config/healthbars-client.toml"
+hash = "fb9274cc4601965abead2e834cb2b8681ffee50bff23f254235f6689eb885bad"
+preserve = true
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 

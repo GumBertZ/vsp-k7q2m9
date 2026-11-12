@@ -4,6 +4,7 @@
 - ToroHealth surt del pack: el seu autor no permet que eines de tercers el baixin i no es pot servir sense redistribuir-lo.
 - Entren Health Bars (vida de les criatures a la pantalla i al mon; amb la seva llibreria Puzzles Lib) i Damage Numbers (numeros de dany en colpejar), tots de Modrinth i nomes de client.
 - El pack passa a 34 mods.
+- Health Bars: les barres sobre les criatures es veuen fins a 24 blocs (de fabrica, 96) i no a traves de les parets. Valor inicial; despres mana el jugador.
 - `options.txt` d'una instal.lacio nova: sense la pregunta del narrador, sense l'avis de servidors de tercers, sense el tutorial de moviment i amb la musica al 25 %. Nomes s'aplica el primer cop; despres mana el jugador.
 - Correccio de la nota de la 1.2.0: Distant Horizons no fixa pocs fils; deixa que cada ordinador trii els seus (abans el pack en fixava 24).
 
