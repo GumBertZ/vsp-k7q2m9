@@ -1,8 +1,0 @@
-name = "ToroHealth Damage Indicator Reformed"
-filename = "torohealth-1.21-neoforge-3.jar"
-side = "client"
-
-[download]
-url = "https://github.com/GumBertZ/vsp-k7q2m9/releases/download/jars-1/torohealth-1.21-neoforge-3.jar"
-hash-format = "sha256"
-hash = "4d7fa2b049e07efbfae081f30e5d594713d0b799c0724213aac2917de966a750"

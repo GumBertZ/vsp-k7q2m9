@@ -1,0 +1,13 @@
+name = "Damage Numbers"
+filename = "damagenumbers-1.4.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/UhaoW1JM/damagenumbers-1.4.1-neoforge.jar"
+hash-format = "sha512"
+hash = "a4abeacb9ec39952582a2242d3f77ee5d3f372dba0e861e06e4886a1c17206c3f5f38641dfa499756a5ebaef1bafb51a134cc8f8dd4079e0983d26f99f706321"
+
+[update]
+[update.modrinth]
+mod-id = "iWdXs2dQ"
+version = "UhaoW1JM"

@@ -1,6 +1,6 @@
 {
   "name": "pk",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "minecraft": "1.21.1",
   "neoforge": "21.1.206",
   "loader": {
@@ -93,6 +93,15 @@
       "size": 10788864,
       "source": "local",
       "side": "both"
+    },
+    {
+      "id": "damagenumbers",
+      "version": "1.4.1-neoforge",
+      "file": "damagenumbers-1.4.1-neoforge.jar",
+      "sha1": "cf825d4e78c88fe5238d5798ed8bbbd77bebd6e3",
+      "size": 38378,
+      "source": "modrinth",
+      "side": "client"
     },
     {
       "id": "distanthorizons",
@@ -221,6 +230,15 @@
       "side": "client"
     },
     {
+      "id": "neat",
+      "version": "1.21.1-47-neoforge",
+      "file": "Neat-1.21-47-NEOFORGE.jar",
+      "sha1": "7744c5b02427572f7154d6f851507544fd9404d2",
+      "size": 110834,
+      "source": "modrinth",
+      "side": "client"
+    },
+    {
       "id": "noisium",
       "version": "2.3.0+mc1.21-1.21.1",
       "file": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
@@ -284,15 +302,6 @@
       "side": "both"
     },
     {
-      "id": "torohealth",
-      "version": "1.21-neoforge-3",
-      "file": "torohealth-1.21-neoforge-3.jar",
-      "sha1": "240f91c8f116961c79daa7672c3d8202e027b0a3",
-      "size": 130135,
-      "source": "local",
-      "side": "client"
-    },
-    {
       "id": "yet_another_config_lib_v3",
       "version": "3.8.0+1.21.1-neoforge",
       "file": "yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
@@ -307,6 +316,11 @@
       "id": "chunky",
       "version": "1.4.23",
       "motiu": "Distant Horizons 3.3.3 peta en carregar el mon si Chunky hi es (Chunky is not loaded). Apartat del servidor i del pack el 2026-11-11."
+    },
+    {
+      "id": "torohealth",
+      "version": "1.21-neoforge-3",
+      "motiu": "L'autor no permet que eines de tercers el baixin de CurseForge i no es a Modrinth. Substituit per Neat (barra de vida) i Damage Numbers (numeros de dany) el 2026-11-12."
     }
   ]
 }

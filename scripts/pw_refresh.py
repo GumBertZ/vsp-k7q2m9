@@ -37,7 +37,6 @@ PRESERVE = [
     "options.txt",                              # video, so, tecles: del jugador
     "config/embeddium-options.json",            # qualitat grafica
     "config/entityculling.json",                # culling d'entitats (client)
-    "config/torohealth.json",                   # HUD de vida: posicio i aspecte
     "config/yacl.json5",                        # aspecte de la UI de configuracio
     "config/jei/*",                             # JEI: interficie, ordenacio, llista oculta
     "config/configured-client.properties",      # UI de configuracio (client)
@@ -48,9 +47,10 @@ PRESERVE = [
 ]
 
 # Mods que SEMPRE van per URL a un Release d'aquest repositori, encara que siguin a una plataforma.
-# torohealth: CurseForge l'exclou de l'API (l'autor no permet la baixada de tercers) i packwiz-installer
-# 0.5.14 falla amb "This mod is excluded from the CurseForge API and must be downloaded manually".
-FORCE_URL = {"torohealth": "ToroHealth Damage Indicator Reformed"}  # id -> nom a mostrar
+# Cas conegut: un mod que CurseForge exclou de l'API (l'autor no permet la baixada de tercers) fa fallar
+# packwiz-installer 0.5.14 amb "This mod is excluded from the CurseForge API and must be downloaded manually".
+# Avui no n'hi ha cap (torohealth es va substituir el 2026-11-12).
+FORCE_URL = {}  # id -> nom a mostrar
 
 # Fitxers de pw/ que no es cataloguen a l'index (a mes de pack.toml, index.toml i .packwizignore).
 IGNORE_TOP = {"instancia", ".git", ".gitattributes", ".gitignore", ".DS_Store"}

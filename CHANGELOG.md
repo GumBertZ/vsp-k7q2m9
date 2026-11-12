@@ -1,5 +1,11 @@
 # Canvis
 
+## 1.3.0 (2026-11-12)
+- ToroHealth surt del pack: el seu autor no permet que eines de tercers el baixin i no es pot servir sense redistribuir-lo.
+- Entren Neat (barra de vida a sobre de cada criatura) i Damage Numbers (numeros de dany en colpejar), tots dos de Modrinth i nomes de client.
+- El pack passa a 33 mods.
+- Correccio de la nota de la 1.2.0: Distant Horizons no fixa pocs fils; deixa que cada ordinador trii els seus (abans el pack en fixava 24).
+
 ## 1.2.0 (2026-11-11)
 - Distant Horizons 2.3.4-b passa a 3.3.3 (servidor i clients alhora). Configuracio nova per a tots els publics: qualitat mitjana, pocs fils, sense nuvols llunyans.
 - Fora del zip: el mapa personal de JourneyMap (153 MB), les tasques de Chunky, l'empremta de maquinari d'Embeddium, la configuracio de servidor de JourneyMap i la copia vella de la llista de servidors.

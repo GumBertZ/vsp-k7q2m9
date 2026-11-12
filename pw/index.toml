@@ -272,11 +272,6 @@ file = "config/takesapillage.json"
 hash = "1f795c0fac11be90c4232254c1126f225ea355c752f1cbcf3898ce524311605c"
 
 [[files]]
-file = "config/torohealth.json"
-hash = "142908fa938cd5d2c27a2110f734f6e1af47031aee334ebe0d3667597990d925"
-preserve = true
-
-[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "908ad4b9ef18997981b70e0f3c3638ca1df07bb2b53a014bf009840e07750543"
 
@@ -332,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/customnpcs.pw.toml"
 hash = "90721f7ba1ac2f918c50302b9d3b1eb6099a1f176b2a926e9582c7be5eeebde9"
+metafile = true
+
+[[files]]
+file = "mods/damagenumbers.pw.toml"
+hash = "9ada207ec0936aeb97eb208d9a927f256f1412ea57b289ee67a9971597128a8d"
 metafile = true
 
 [[files]]
@@ -405,6 +405,11 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "ee3b820bf7350e4a48726ac7931e8e0e3fcd76688c7db0741a8d1d8d26adf69e"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
@@ -437,11 +442,6 @@ metafile = true
 [[files]]
 file = "mods/takesapillage.pw.toml"
 hash = "f8b82b3f4c3462cc0e37b5497d3ecdf1a9a0fd4a261237bde709b01b89d04607"
-metafile = true
-
-[[files]]
-file = "mods/torohealth.pw.toml"
-hash = "f48da230a43e27f17d0ca0ba6c064acb701fb52a8597a6b3ddca4b9db1968517"
 metafile = true
 
 [[files]]
