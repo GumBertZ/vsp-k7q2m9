@@ -1,0 +1,13 @@
+name = "Fantasy Armor (Medieval Series)"
+filename = "fantasy_armor-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oVmpjYQ5/versions/TRYX2yhs/fantasy_armor-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "26e255088a50366d5ecd727d74b30631fe3728887382eec518bacfb1dbfeacb3b2d2036cbfa600ffa941301ba346f112fc2d77df223c80f1e15a2b991888522e"
+
+[update]
+[update.modrinth]
+mod-id = "oVmpjYQ5"
+version = "TRYX2yhs"

@@ -2,3 +2,5 @@ cache/
 local/
 dist/
 __pycache__/
+servers.dat
+*.jar

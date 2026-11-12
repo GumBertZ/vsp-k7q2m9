@@ -1,0 +1,12 @@
+name = "pk"
+version = "1.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cd713ea93a2987e0afab1b003897e33aea1ba543654d92ac453280f2c205cb4b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.206"

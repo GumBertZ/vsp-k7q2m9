@@ -1,0 +1,3 @@
+version:3955
+renderDistance:8
+simulationDistance:5

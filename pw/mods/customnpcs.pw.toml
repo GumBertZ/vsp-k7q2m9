@@ -1,0 +1,13 @@
+name = "CustomNPCs-Unofficial"
+filename = "CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e07068042fe9dc2e7240fcb765bc5facba057394"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7005944
+project-id = 1052708

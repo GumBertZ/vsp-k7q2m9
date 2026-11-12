@@ -1,0 +1,24 @@
+_version = 5
+
+# Configuracio del pack per a Distant Horizons 3.3.3, pensada per a tots els ordinadors.
+# Nomes s'hi fixen tres valors; la resta els posa el mod segons cada maquina
+# (els fils de CPU, sobretot: abans el pack en fixava 24, que eren els de qui el va muntar).
+# Qui tingui un ordinador potent pot pujar la distancia dins del joc (Opcions > boto de Distant Horizons).
+
+[client]
+
+	[client.advanced]
+
+		[client.advanced.autoUpdater]
+			# El pack es qui decideix la versio; el mod no s'ha d'actualitzar sol.
+			enableAutoUpdater = false
+
+		[client.advanced.graphics]
+
+			[client.advanced.graphics.genericRendering]
+				# Sense nuvols llunyans, com a la configuracio anterior del pack.
+				enableCloudRendering = false
+
+			[client.advanced.graphics.quality]
+				# Radi de terreny llunya, en xunks. Abans 512; 256 es el valor de fabrica i va be a qualsevol equip.
+				lodChunkRenderDistanceRadius = 256
