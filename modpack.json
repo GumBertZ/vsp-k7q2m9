@@ -1,6 +1,6 @@
 {
   "name": "pk",
-  "version": "1.3.0",
+  "version": "1.4.0-prova",
   "minecraft": "1.21.1",
   "neoforge": "21.1.206",
   "loader": {
@@ -14,12 +14,30 @@
   "config_exclude": [],
   "mods": [
     {
+      "id": "aeronautics_bundled",
+      "version": "1.3.2",
+      "file": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+      "size": 33123131,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
       "id": "attributefix",
       "version": "21.1.2",
       "file": "attributefix-neoforge-1.21.1-21.1.2.jar",
       "sha1": "c6df25744d52abca410c40ec6f29c0156ba50885",
       "size": 19798,
       "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "backpacked",
+      "version": "3.0.5",
+      "file": "backpacked-neoforge-1.21.1-3.0.5.jar",
+      "sha1": "5c610383fc803d62825a2111e16ea01680bf25d9",
+      "size": 1282359,
+      "source": "curseforge",
       "side": "both"
     },
     {
@@ -77,6 +95,15 @@
       "side": "client"
     },
     {
+      "id": "create",
+      "version": "6.0.10",
+      "file": "create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "size": 19123767,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
       "id": "cristellib",
       "version": "1.2.8",
       "file": "cristellib-neoforge-1.2.8.jar",
@@ -113,6 +140,15 @@
       "side": "both"
     },
     {
+      "id": "easyshulkerboxes",
+      "version": "21.1.3",
+      "file": "EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar",
+      "sha1": "9491302950e20bec758f67f13ff21663ecf40986",
+      "size": 215920,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
       "id": "embeddium",
       "version": "1.0.15+mc1.21.1",
       "file": "embeddium-1.0.15+mc1.21.1.jar",
@@ -131,6 +167,24 @@
       "side": "both"
     },
     {
+      "id": "end_villager_trader",
+      "version": "1.0.1",
+      "file": "end_villager_trader-1.0.1-neoforge-1.21.1.jar",
+      "sha1": "57567d7d915d8b0bba931d704f4e684a752aa51a",
+      "size": 108414,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "endervillages",
+      "version": "2.0-1.21.1",
+      "file": "endervillages-2.0-1.21.1.jar",
+      "sha1": "70d1d243ec8824528e071ef45f5893000fccbad7",
+      "size": 204804,
+      "source": "curseforge",
+      "side": "both"
+    },
+    {
       "id": "entityculling",
       "version": "1.8.2",
       "file": "entityculling-neoforge-1.8.2-mc1.21.jar",
@@ -140,21 +194,21 @@
       "side": "client"
     },
     {
-      "id": "extra_dungeons",
-      "version": "1.0.7",
-      "file": "extra_dungeons-1.0.7-neoforge-1.21.1.jar",
-      "sha1": "0abef88fffed273cf7e28186566c54ee654bfcbd",
-      "size": 59323,
-      "source": "modrinth",
-      "side": "both"
-    },
-    {
       "id": "fantasy_armor",
       "version": "1.1.1-1.21.1",
       "file": "fantasy_armor-1.1.1-1.21.1.jar",
       "sha1": "c6f5ec760d2e84d6557651cb159410a4318cb63c",
       "size": 384063,
       "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "framework",
+      "version": "0.13.11",
+      "file": "framework-neoforge-1.21.1-0.13.11.jar",
+      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+      "size": 387334,
+      "source": "curseforge",
       "side": "both"
     },
     {
@@ -194,6 +248,15 @@
       "side": "client"
     },
     {
+      "id": "hoporp",
+      "version": "1.4.4",
+      "file": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+      "sha1": "52875dc5fd560c99721565bfced9c47dbff9acfa",
+      "size": 460577,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
       "id": "jei",
       "version": "19.25.0.321",
       "file": "jei-1.21.1-neoforge-19.25.0.321.jar",
@@ -209,6 +272,15 @@
       "sha1": "369f9271b8b8adbb8b5baa7f2aa661edb9eb5838",
       "size": 3537573,
       "source": "local",
+      "side": "both"
+    },
+    {
+      "id": "jungle_treehouse_village",
+      "version": "1.0.0",
+      "file": "jungle_treehouse_village-1.0.0-neoforge-1.21.1.jar",
+      "sha1": "157f6d2bd7b9f775413a3d3fe7494092a353a1dc",
+      "size": 69435,
+      "source": "modrinth",
       "side": "both"
     },
     {
@@ -237,6 +309,15 @@
       "size": 342982,
       "source": "modrinth",
       "side": "client"
+    },
+    {
+      "id": "mr_tidal_towns",
+      "version": "?",
+      "file": "tidal-towns-2.0.jar",
+      "sha1": "f48816fb1b0759350b60e96cd595512fe2b24baf",
+      "size": 586133,
+      "source": "modrinth",
+      "side": "both"
     },
     {
       "id": "noisium",
@@ -280,6 +361,15 @@
       "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
       "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
       "size": 484332,
+      "source": "modrinth",
+      "side": "both"
+    },
+    {
+      "id": "sable",
+      "version": "2.0.6",
+      "file": "sable-neoforge-1.21.1-2.0.6.jar",
+      "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+      "size": 12986135,
       "source": "modrinth",
       "side": "both"
     },
@@ -330,6 +420,11 @@
       "id": "torohealth",
       "version": "1.21-neoforge-3",
       "motiu": "L'autor no permet que eines de tercers el baixin de CurseForge i no es a Modrinth. Substituit per Neat (barra de vida) i Damage Numbers (numeros de dany) el 2026-11-12."
+    },
+    {
+      "id": "extra_dungeons",
+      "version": "1.0.7",
+      "motiu": "Fora per decisio d'Albert (2026-11-12), abans de generar el mon nou."
     }
   ]
 }

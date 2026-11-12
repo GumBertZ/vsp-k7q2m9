@@ -1,11 +1,11 @@
 name = "pk"
-version = "1.3.0"
+version = "1.4.0-prova"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f376b40c70852fa8339739f73a56d4fda333e05a822e3f9df65fa060cc479eca"
+hash = "2fc05bd6520a4ad46f0eb2a643e9f27c5216fbf1d796ee9ac5a47e87c04ca9d0"
 
 [versions]
 minecraft = "1.21.1"

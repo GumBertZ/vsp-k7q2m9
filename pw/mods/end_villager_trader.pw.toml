@@ -1,0 +1,13 @@
+name = "End Villager Trader"
+filename = "end_villager_trader-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oJ8PoQe/versions/AeUm3GSA/end_villager_trader-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7e8096bec164a53baf2b4bf14161487242620319ded543435e7f190807521de4db668f4b7ca7398efd5c8be8b2d429bee02f9b1dfa06f0256ab7f7daf2f0cb44"
+
+[update]
+[update.modrinth]
+mod-id = "8oJ8PoQe"
+version = "AeUm3GSA"

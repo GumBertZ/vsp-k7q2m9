@@ -1,0 +1,13 @@
+name = "Ender Villages"
+filename = "endervillages-2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NdeIraZc/versions/9arOTJqt/endervillages-2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "78194862ba8bbdeae7beb46bb9ef2d96518fb0609be2a83b567695b4d3205b3916b3d83d9f75304568437e3dbe2d5affd385acff9f75bccaa446b5799caf61bf"
+
+[update]
+[update.modrinth]
+mod-id = "NdeIraZc"
+version = "9arOTJqt"

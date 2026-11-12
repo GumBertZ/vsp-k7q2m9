@@ -290,8 +290,18 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 preserve = true
 
 [[files]]
+file = "mods/aeronautics_bundled.pw.toml"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
@@ -325,6 +335,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
 file = "mods/cristellib.pw.toml"
 hash = "1f5047efcbdbcfe334a9841a69b7a51b188cdfe1fc00b9e4ed277c4cfec161a8"
 metafile = true
@@ -345,6 +360,11 @@ hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
+file = "mods/easyshulkerboxes.pw.toml"
+hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
@@ -355,18 +375,28 @@ hash = "8e557e185090dfbc706767785a38c517064427beef89d148469d980cc4fff938"
 metafile = true
 
 [[files]]
+file = "mods/end_villager_trader.pw.toml"
+hash = "712741c29da5627204d618afc5d53e5d03e5df4330c09052430a01c990cd0580"
+metafile = true
+
+[[files]]
+file = "mods/endervillages.pw.toml"
+hash = "0abb1b27124f0587c588d5f71d17a9e5bffb27361eb98722c48dc1f95ab61d79"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
 metafile = true
 
 [[files]]
-file = "mods/extra_dungeons.pw.toml"
-hash = "d89dd83395b42170eb662eecdbe3555c3d5ffb8387a465fe73d7c664f85f2a45"
+file = "mods/fantasy_armor.pw.toml"
+hash = "68c42e966c68a022500a6992c4d07fb69e2a84ff5743c9b621d45227f6d0b76e"
 metafile = true
 
 [[files]]
-file = "mods/fantasy_armor.pw.toml"
-hash = "68c42e966c68a022500a6992c4d07fb69e2a84ff5743c9b621d45227f6d0b76e"
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
@@ -390,6 +420,11 @@ hash = "2b71863edd2540d93517f6a0a40e6dd04a460039a3a8c385308c45ffc453a347"
 metafile = true
 
 [[files]]
+file = "mods/hoporp.pw.toml"
+hash = "577844e18732b36f36995820c6593e5fa8fb49d522d05f41ae0bce1f478a3637"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "bd1fded985d4545efa8a4fd5482f5923ec4894f83086a6b550e812d1dc742a15"
 metafile = true
@@ -397,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "448c3e93e0cd1231c129313a82fa2820644f4ebdaa78346bb283dc29acbe9976"
+metafile = true
+
+[[files]]
+file = "mods/jungle_treehouse_village.pw.toml"
+hash = "b1154303f1513784ec1c482616c8ee5bb05efe996f7bfa29c1cd75277f28a9f3"
 metafile = true
 
 [[files]]
@@ -412,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/mr_tidal_towns.pw.toml"
+hash = "5a0719402e805df315bc797564e637434d3f08450c056a571aa5284d9f2d549e"
 metafile = true
 
 [[files]]
@@ -437,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
